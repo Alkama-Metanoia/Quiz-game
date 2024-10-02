@@ -1,4 +1,4 @@
-# Quiz-game
+# QuizBrain
 QuizBrain is a Python-based quiz application that uses a question bank to test users' knowledge on various topics. The project is designed to be simple, extendable, and easily modifiable for different quiz topics.
 
 ## Features
